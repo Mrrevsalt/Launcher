@@ -1,8 +1,0 @@
-version:{ 2.0.1 }
-
-Notes :{
-- Added new "Out of Bounds" character model.
-- Fixed collision bug in the Horror Maze.
-- Optimized texture loading for faster startup.
-- Added smooth tab switching in the launcher.
-}
