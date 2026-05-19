@@ -1,5 +1,5 @@
 {
-    "version": "1.0.31",
+    "version": "1.0.32",
     "files": {
         "Horror Maze.exe": {
             "hash": "a30757fdaced5b2b01a43651642425666cf958f9671c42aea4a5837369535d33",
@@ -26,7 +26,7 @@
             "size": 26
         },
         "Horror Maze_Data/boot.config": {
-            "hash": "0ab48a4dc8c85bed46a5df1471399acc9c08df1c78e70fae7a59a4cd310b3e65",
+            "hash": "9fd60ca6c23181349f753a13bae331769ac5c78ee166cd424767d196c25e20d1",
             "size": 156
         },
         "Horror Maze_Data/globalgamemanagers": {
@@ -246,7 +246,7 @@
             "size": 34304
         },
         "Horror Maze_Data/Managed/Assembly-CSharp.dll": {
-            "hash": "c957c24b2d08c41c0bbc3ca51f5b68966d89b4d46c267e3c9a1c820bd1b7ff39",
+            "hash": "1763b24fb7aec5f9dcde6daa866befcb0623b477e752a03bf367d1f24e4dfcb5",
             "size": 65024
         },
         "Horror Maze_Data/Managed/DOTween.dll": {
