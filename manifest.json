@@ -1,5 +1,5 @@
 {
-    "version": "1.0.32",
+    "version": "1.0.33",
     "files": {
         "Horror Maze.exe": {
             "hash": "a30757fdaced5b2b01a43651642425666cf958f9671c42aea4a5837369535d33",
@@ -26,31 +26,31 @@
             "size": 26
         },
         "Horror Maze_Data/boot.config": {
-            "hash": "9fd60ca6c23181349f753a13bae331769ac5c78ee166cd424767d196c25e20d1",
+            "hash": "97d993d0ab92a197f899ecb9a33cba482000c8519edffabb6e3d98c804e7fb3f",
             "size": 156
         },
         "Horror Maze_Data/globalgamemanagers": {
-            "hash": "ac80c835126e086ec3e705786d36457f74678154bfae365bdcd6b579739897a3",
-            "size": 251476
+            "hash": "1be3bd0545d68db9ee9eaace8c916208eee8c605970ea1976fa7b4389c3149f0",
+            "size": 251668
         },
         "Horror Maze_Data/globalgamemanagers.assets": {
-            "hash": "dbe42cf2ce4789aacf573ed0392ab880eb177fc628f110917da094ae0f7f0c5b",
-            "size": 1089596
+            "hash": "b0e58154fcf94a3fa92a8a1a97b5b48299b0cd461b4240d38d47596defc27538",
+            "size": 1090076
         },
         "Horror Maze_Data/globalgamemanagers.assets.resS": {
             "hash": "f2e891f1a2eca090fd71651b299b57c89b6f16599aee6dd338e290ba791e314b",
             "size": 5716192
         },
         "Horror Maze_Data/level0": {
-            "hash": "886442e77c7494d889e12f5a6ca2a39d0ddfd1ac0d46e3aee729a39122a230ef",
-            "size": 70452
+            "hash": "eb45f0c082c2d2f7b1bc0a8c164074e0d6d7b12c4ad4ad6f39d99434bb61de6f",
+            "size": 76084
         },
         "Horror Maze_Data/level0.resS": {
             "hash": "41deede43e7549ffd9026193a26aef1e376362735c397c9a5599128166bec8e2",
             "size": 430768
         },
         "Horror Maze_Data/resources.assets": {
-            "hash": "39be3090bea1fffbb6f05e23584142015208e7b4094187d8ad07ab11c81a2d08",
+            "hash": "afe3c15e05a93f0416683b49461be519c70ce6e17d142356247b27329c9cc129",
             "size": 442312
         },
         "Horror Maze_Data/resources.assets.resS": {
@@ -66,12 +66,12 @@
             "size": 5033
         },
         "Horror Maze_Data/sharedassets0.assets": {
-            "hash": "c33ad6634375a3060d70ca5f85654d9a97e1ef705e0ffd60067ef1a4524faf3d",
-            "size": 2517584
+            "hash": "e89fab79d05dacea10e6e971cc44a7d093095d644965df63a2c687584d5a629f",
+            "size": 2910128
         },
         "Horror Maze_Data/sharedassets0.assets.resS": {
-            "hash": "df267abce817642326afc662536187f921e624d32a4207d0cc485c759b9ce4d6",
-            "size": 23894672
+            "hash": "ea8a3d3a7c639b5baea49a91edbed1bd213a6124d4f0aa6e2715905a2652fc2b",
+            "size": 24068880
         },
         "Horror Maze_Data/GI/level0/14/14463fb62424a703a623ffd6106c71b0.caw": {
             "hash": "e2f317cc67fb05d74452613afef60cb011b1503e59ffbf68e0bafc24aa400498",
@@ -246,8 +246,8 @@
             "size": 34304
         },
         "Horror Maze_Data/Managed/Assembly-CSharp.dll": {
-            "hash": "1763b24fb7aec5f9dcde6daa866befcb0623b477e752a03bf367d1f24e4dfcb5",
-            "size": 65024
+            "hash": "755afd8fa8d0f8f821b9a39232fadcde85ffe187ef3d7c69815d703f952fc4a2",
+            "size": 80384
         },
         "Horror Maze_Data/Managed/DOTween.dll": {
             "hash": "d74bfc3f37cd97d90f7f08a9a73e204c5eae66e77be24b12378a4e99f1690843",
