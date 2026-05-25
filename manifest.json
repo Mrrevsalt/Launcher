@@ -1,5 +1,5 @@
 {
-    "version": "1.0.412",
+    "version": "1.0.413",
     "files": {
         "Horror Maze.exe": {
             "hash": "a30757fdaced5b2b01a43651642425666cf958f9671c42aea4a5837369535d33",
@@ -22,7 +22,7 @@
             "size": 26
         },
         "Horror Maze_Data/boot.config": {
-            "hash": "ef9c5587987431e4c2cfa0443ea9688885a4bed796cd1c80fe1d22d69a7b2214",
+            "hash": "e93099c4f16c8b3e7f94141ed35b2d862b0522c335ef8146a00f3b1f1d2885a7",
             "size": 156
         },
         "Horror Maze_Data/globalgamemanagers": {
@@ -46,11 +46,11 @@
             "size": 246272
         },
         "Horror Maze_Data/level1": {
-            "hash": "f24e07d18c00378733050b49375552a90bf8e6e7405ed76e313b978b5717d41b",
-            "size": 628060
+            "hash": "29a83e9b529a3244b6403fa3e460087812d4219d7a6f7b72b5ab0e6c14176c3e",
+            "size": 802372
         },
         "Horror Maze_Data/resources.assets": {
-            "hash": "975e7f8b5192f70975d8900b0de9fe919a67d5fb27a07cfee0486769d1670e77",
+            "hash": "2ab700e8ec7fd15278ac65ed55d3ee678cd11be0378ba9789561916cef80149b",
             "size": 434648
         },
         "Horror Maze_Data/resources.assets.resS": {
@@ -74,8 +74,8 @@
             "size": 17674160
         },
         "Horror Maze_Data/sharedassets1.assets": {
-            "hash": "18f52d90dd62077b3ee740ee75d37690f5ab27e92a53147f5579669a41be83b4",
-            "size": 8016
+            "hash": "f802a045bf33ea52f6a53fab281ecd310d64569e7fb5a464e4b88ec30df0b37a",
+            "size": 8128
         },
         "Horror Maze_Data/sharedassets1.assets.resS": {
             "hash": "87a4847eade1de49f6aac782a74b9929acbdb3c0f8b36d7750474215f1880479",
