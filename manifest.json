@@ -1,5 +1,5 @@
 {
-    "version": "1.0.418",
+    "version": "1.0.419",
     "files": {
         "Horror Maze.exe": {
             "hash": "a30757fdaced5b2b01a43651642425666cf958f9671c42aea4a5837369535d33",
@@ -17,20 +17,16 @@
             "hash": "625bd40005b1c3708695d5256ecf230d278e6b8edba5a88af70f3d91324f3052",
             "size": 4725304
         },
-        "Horror Maze_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt": {
-            "hash": "c924091fc06bbef3266f0265c6ee8277a72c50e6388cf1170fd5318f9f9ceb54",
-            "size": 218786
-        },
         "Horror Maze_Data/app.info": {
             "hash": "3829c08bd9d46cd305a8e7e5cb5c467475e27563319327f04f46442f2075196b",
             "size": 26
         },
         "Horror Maze_Data/boot.config": {
-            "hash": "1d34a11c68cac5d0ecbc4a1d1b961727365721a627d124736d4c342f2adc3a54",
+            "hash": "86355ea9545d8f49f6bcf530eb2229b0f850de991c9216402ac426d7e4a4989a",
             "size": 156
         },
         "Horror Maze_Data/globalgamemanagers": {
-            "hash": "f737598a3e2a006520078b77957f6df560cefd9d5618989de0f03f1e57783f84",
+            "hash": "c276a3b586667d165a4e8768af66b874b35cb2b61d62010b4253e62261332b5a",
             "size": 255940
         },
         "Horror Maze_Data/globalgamemanagers.assets": {
@@ -58,7 +54,7 @@
             "size": 430768
         },
         "Horror Maze_Data/resources.assets": {
-            "hash": "f53985646d52446864dd5c55568f825210163775472340c7fce19ebb583f3573",
+            "hash": "872c7109332475a5eb0284b77b0e9447ceb1aea64c185827f80ab57d3bad7ecf",
             "size": 447960
         },
         "Horror Maze_Data/resources.assets.resS": {
@@ -74,8 +70,8 @@
             "size": 5097
         },
         "Horror Maze_Data/sharedassets0.assets": {
-            "hash": "29b21cecc3f11669a36ed61ceae20d0ce2fcf5a5508ff47eb6db08e2150964b7",
-            "size": 3228480
+            "hash": "d3702af1845caed997a91b95be1448fc93c83858abf087d877383bcae1e351d5",
+            "size": 3228544
         },
         "Horror Maze_Data/sharedassets0.assets.resS": {
             "hash": "9a689f5efafb3662f0e4795e9403e5b1fb6f71e9c0016b7e845512dbaf2d547b",
