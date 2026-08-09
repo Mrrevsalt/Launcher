@@ -1,5 +1,5 @@
 {
-    "version": "1.0.423",
+    "version": "1.0.424",
     "files": {
         "Horror Maze.exe": {
             "hash": "a30757fdaced5b2b01a43651642425666cf958f9671c42aea4a5837369535d33",
@@ -22,7 +22,7 @@
             "size": 26
         },
         "Horror Maze_Data/boot.config": {
-            "hash": "8aa2905ec6ce3b337ec9ab7dc2bd3b5785d7d1cb6ccbcc0f0f8e49be639df50c",
+            "hash": "52dac8f4464ec0f89dd9c566939c661c32158c9a19d304165ac84648348e2a42",
             "size": 156
         },
         "Horror Maze_Data/globalgamemanagers": {
@@ -38,7 +38,7 @@
             "size": 5716192
         },
         "Horror Maze_Data/level0": {
-            "hash": "8c26ba0a720b7a30d90fdcb4adbec6eaf851bc9cebc580b9be088e7db64c24cb",
+            "hash": "d57a180b48e7c2bea3062f7c0c60426299efa274e8bab4edf143b76b0945b431",
             "size": 194148
         },
         "Horror Maze_Data/level0.resS": {
