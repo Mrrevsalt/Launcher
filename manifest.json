@@ -1,5 +1,5 @@
 {
-    "version": "1.0.421",
+    "version": "1.0.422",
     "files": {
         "Horror Maze.exe": {
             "hash": "a30757fdaced5b2b01a43651642425666cf958f9671c42aea4a5837369535d33",
@@ -17,36 +17,40 @@
             "hash": "625bd40005b1c3708695d5256ecf230d278e6b8edba5a88af70f3d91324f3052",
             "size": 4725304
         },
+        "Horror Maze_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt": {
+            "hash": "c924091fc06bbef3266f0265c6ee8277a72c50e6388cf1170fd5318f9f9ceb54",
+            "size": 218786
+        },
         "Horror Maze_Data/app.info": {
             "hash": "3829c08bd9d46cd305a8e7e5cb5c467475e27563319327f04f46442f2075196b",
             "size": 26
         },
         "Horror Maze_Data/boot.config": {
-            "hash": "03973e190931d714a5eb1e4f823a0608d215a602b0b1b2ea473f3529b8670b8e",
+            "hash": "8aa2905ec6ce3b337ec9ab7dc2bd3b5785d7d1cb6ccbcc0f0f8e49be639df50c",
             "size": 156
         },
         "Horror Maze_Data/globalgamemanagers": {
-            "hash": "c276a3b586667d165a4e8768af66b874b35cb2b61d62010b4253e62261332b5a",
-            "size": 255940
+            "hash": "b9242f7d3637029aaac68a92c8c819b21fbe78bbb568e322e1314e56a61945ae",
+            "size": 256148
         },
         "Horror Maze_Data/globalgamemanagers.assets": {
-            "hash": "fe642d7d68d820b12b962a75c1d2a6e21082168aa7298e6cb3cd68a4aafb296c",
-            "size": 1106940
+            "hash": "3363216884801f67494e09bdc2d6a0ee78edd4163466ca197e43e5c0625f1cf9",
+            "size": 1107356
         },
         "Horror Maze_Data/globalgamemanagers.assets.resS": {
             "hash": "f2e891f1a2eca090fd71651b299b57c89b6f16599aee6dd338e290ba791e314b",
             "size": 5716192
         },
         "Horror Maze_Data/level0": {
-            "hash": "be63e7a61fce3b4542d86ce4349a383345e154e328132e91e1b359768bf0a7ac",
-            "size": 137124
+            "hash": "8c26ba0a720b7a30d90fdcb4adbec6eaf851bc9cebc580b9be088e7db64c24cb",
+            "size": 194148
         },
         "Horror Maze_Data/level0.resS": {
-            "hash": "a4d111676a639709cc82b952fbfef5b09bc0eb579004a6da744869209eb235a7",
-            "size": 246272
+            "hash": "e47cc4ff614c65a6e95fcf760939dff293aaea16b5b906b2cf2a6f73ee2dd585",
+            "size": 200640
         },
         "Horror Maze_Data/level1": {
-            "hash": "826ab0f9f2f7165aeeb10417475fcf34ad2127914875d82aeedc83185c2cfc83",
+            "hash": "d6f3bc6285a03864596bbce741e436d50f75b3410cd33ee92c2683812973bead",
             "size": 68608
         },
         "Horror Maze_Data/level1.resS": {
@@ -54,12 +58,12 @@
             "size": 430768
         },
         "Horror Maze_Data/resources.assets": {
-            "hash": "872c7109332475a5eb0284b77b0e9447ceb1aea64c185827f80ab57d3bad7ecf",
-            "size": 447960
+            "hash": "45620b224b3a74acec9ce53ccddf2ccf0052bcfeb4b84d6a03cf0bea88299626",
+            "size": 447240
         },
         "Horror Maze_Data/resources.assets.resS": {
-            "hash": "642d72627a56bc3070d2226632f49587a7aef43d1d4b1a26a8e8cc7d2f44c05b",
-            "size": 1405456
+            "hash": "fa902ee91c06101bfdb6a3f6fd7d8bacfd8d2ef26b1908a8da62b3e7a81bbec0",
+            "size": 1399984
         },
         "Horror Maze_Data/RuntimeInitializeOnLoads.json": {
             "hash": "1e10e973e9c54730640fc1dc48f5aec55c3496cbbdc610646cdf0f53fcb27365",
@@ -70,48 +74,48 @@
             "size": 5097
         },
         "Horror Maze_Data/sharedassets0.assets": {
-            "hash": "bb18b4037dea2fbfd4abd1bb29869304ec8fa0fee8cebcf40a2954281702e236",
-            "size": 3228544
+            "hash": "f049452dca14e2a5b82d4cab0837ae1ae1691ac0c1dce970ca5f4194df2fb64c",
+            "size": 3147792
         },
         "Horror Maze_Data/sharedassets0.assets.resS": {
-            "hash": "9a689f5efafb3662f0e4795e9403e5b1fb6f71e9c0016b7e845512dbaf2d547b",
-            "size": 22094624
+            "hash": "d3ccea4b3cedb38741e32ce0c2b0e5ebe79f80b87bc73062b413521c9777bacc",
+            "size": 12436048
         },
         "Horror Maze_Data/sharedassets0.resource": {
             "hash": "4d54172e9755a957aaf2ac24675897deef04e4124b4119338bf5eb815586efac",
             "size": 191456
         },
         "Horror Maze_Data/sharedassets1.assets": {
-            "hash": "a1966aced721979c242191894102506a229b89b33a43702f76a842418de132b9",
-            "size": 209792
+            "hash": "7634e647aa5fae2ed1f516d4a588c1f72a3458834612dbd129c49d20438fafcb",
+            "size": 159952
         },
         "Horror Maze_Data/sharedassets1.assets.resS": {
-            "hash": "ba865625a23cdc4ac2574664d1e908e19fef3990aa40b90f67977815ae905c89",
-            "size": 18788800
+            "hash": "9681d8b55dc9255649a55c001c8b3bdbc047f625b05588e61b1a995955c34fea",
+            "size": 18776080
         },
-        "Horror Maze_Data/GI/level0/18/1866a77f18f6129a848797771083991e.caw": {
-            "hash": "1ee7cbced4029ce909205907c89c3947c764f589a18fd8810c4b51487b1338e8",
-            "size": 2998
+        "Horror Maze_Data/GI/level0/5d/5df4b80a138ccd4282d6edfc5e74d496.caw": {
+            "hash": "dce45edb517931e85feacd5c7514f4c7c3cde930c504f573de13a114a542a970",
+            "size": 2652
         },
-        "Horror Maze_Data/GI/level0/18/1866a77f18f6129a848797771083991e.ecm": {
-            "hash": "faeabbc7e9aed16a34017aec8efb486b89e77c96885e6da0de6456d8bd0ef6cd",
-            "size": 5192
+        "Horror Maze_Data/GI/level0/5d/5df4b80a138ccd4282d6edfc5e74d496.ecm": {
+            "hash": "d75a566abb7456f315c523f0104068dbb04ee692a09a292ded41b999949d392f",
+            "size": 3592
         },
-        "Horror Maze_Data/GI/level0/18/1866a77f18f6129a848797771083991e.iws.sse": {
-            "hash": "a29a1c3a0c95eef7e9fdd81751e11a4ab8a2c3d6410c026cad7c50f91a85004d",
-            "size": 3768
+        "Horror Maze_Data/GI/level0/5d/5df4b80a138ccd4282d6edfc5e74d496.iws.sse": {
+            "hash": "13b902e75a439f08140dbfb7edcb11b5dac2deb80a1b2adfab7d104fae40ddf1",
+            "size": 3496
         },
-        "Horror Maze_Data/GI/level0/18/1866a77f18f6129a848797771083991e.rgb": {
-            "hash": "2bb0ef7e2422e6b391bf2a9120a89f55e1dd3b1356ed235dff6ef5f5f143568b",
-            "size": 5232
+        "Horror Maze_Data/GI/level0/5d/5df4b80a138ccd4282d6edfc5e74d496.rgb": {
+            "hash": "85b12f6418105d3874c5bf8fe30e684db6d236c5747e7679dbbe9f569356e42a",
+            "size": 3632
         },
-        "Horror Maze_Data/GI/level0/18/1866a77f18f6129a848797771083991e.rsc.sse": {
-            "hash": "66f06ef9af31eb1618eb35424e15d62467732399c5f32548bd5fefc1dfe8635b",
-            "size": 76040
+        "Horror Maze_Data/GI/level0/5d/5df4b80a138ccd4282d6edfc5e74d496.rsc.sse": {
+            "hash": "3a6de3e588f4c5bed1864c55c972c216835c0448bee869d03216f4f0f95ac114",
+            "size": 61144
         },
-        "Horror Maze_Data/GI/level0/18/1866a77f18f6129a848797771083991e.vis": {
-            "hash": "47ccda51c4bd80c97e86ccdb71b6fa788ce6a7385bdcedab6c5fa3f7daa123f7",
-            "size": 5172
+        "Horror Maze_Data/GI/level0/5d/5df4b80a138ccd4282d6edfc5e74d496.vis": {
+            "hash": "2221a94d3de78e684b46c5d47003b40896d6fee3e92363a4785a49d85916f9c0",
+            "size": 4316
         },
         "Horror Maze_Data/GI/level1/14/14463fb62424a703a623ffd6106c71b0.caw": {
             "hash": "e2f317cc67fb05d74452613afef60cb011b1503e59ffbf68e0bafc24aa400498",
@@ -286,8 +290,8 @@
             "size": 34304
         },
         "Horror Maze_Data/Managed/Assembly-CSharp.dll": {
-            "hash": "4b27a011ec63286dcc769f397119e6f229729d778f420933e320828c842bcebc",
-            "size": 118272
+            "hash": "6d4fdc0e8f21956c0f560f4caa57f5dfa8c594088d42e8759641324086096a7d",
+            "size": 125952
         },
         "Horror Maze_Data/Managed/DOTween.dll": {
             "hash": "d74bfc3f37cd97d90f7f08a9a73e204c5eae66e77be24b12378a4e99f1690843",
